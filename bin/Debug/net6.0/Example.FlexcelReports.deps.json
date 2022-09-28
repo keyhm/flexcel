@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example.FlexcelReports/1.0.0": {
+        "dependencies": {
+          "FlexCel": "6.21.5.0"
+        },
+        "runtime": {
+          "Example.FlexcelReports.dll": {}
+        }
+      },
+      "FlexCel/6.21.5.0": {
+        "runtime": {
+          "FlexCel.dll": {
+            "assemblyVersion": "6.21.5.0",
+            "fileVersion": "6.21.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example.FlexcelReports/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FlexCel/6.21.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

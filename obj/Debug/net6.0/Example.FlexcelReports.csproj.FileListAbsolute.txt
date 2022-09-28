@@ -1,0 +1,34 @@
+C:\Learning\BackEnd Projects\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.csproj.AssemblyReference.cache
+C:\Learning\BackEnd Projects\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\BackEnd Projects\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.AssemblyInfoInputs.cache
+C:\Learning\BackEnd Projects\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.AssemblyInfo.cs
+C:\Learning\BackEnd Projects\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.csproj.CoreCompileInputs.cache
+C:\Learning\BackEnd Projects\Example.FlexcelReports\bin\Debug\net6.0\Example.FlexcelReports.exe
+C:\Learning\BackEnd Projects\Example.FlexcelReports\bin\Debug\net6.0\Example.FlexcelReports.deps.json
+C:\Learning\BackEnd Projects\Example.FlexcelReports\bin\Debug\net6.0\Example.FlexcelReports.runtimeconfig.json
+C:\Learning\BackEnd Projects\Example.FlexcelReports\bin\Debug\net6.0\Example.FlexcelReports.dll
+C:\Learning\BackEnd Projects\Example.FlexcelReports\bin\Debug\net6.0\Example.FlexcelReports.pdb
+C:\Learning\BackEnd Projects\Example.FlexcelReports\bin\Debug\net6.0\FlexCel.dll
+C:\Learning\BackEnd Projects\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.csproj.CopyComplete
+C:\Learning\BackEnd Projects\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.dll
+C:\Learning\BackEnd Projects\Example.FlexcelReports\obj\Debug\net6.0\refint\Example.FlexcelReports.dll
+C:\Learning\BackEnd Projects\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.pdb
+C:\Learning\BackEnd Projects\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.genruntimeconfig.cache
+C:\Learning\BackEnd Projects\Example.FlexcelReports\obj\Debug\net6.0\ref\Example.FlexcelReports.dll
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\bin\Debug\net6.0\Example.FlexcelReports.exe
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\bin\Debug\net6.0\Example.FlexcelReports.deps.json
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\bin\Debug\net6.0\Example.FlexcelReports.runtimeconfig.json
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\bin\Debug\net6.0\Example.FlexcelReports.dll
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\bin\Debug\net6.0\Example.FlexcelReports.pdb
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\bin\Debug\net6.0\FlexCel.dll
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.csproj.AssemblyReference.cache
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.AssemblyInfoInputs.cache
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.AssemblyInfo.cs
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.csproj.CoreCompileInputs.cache
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.csproj.CopyComplete
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.dll
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\obj\Debug\net6.0\refint\Example.FlexcelReports.dll
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.pdb
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\obj\Debug\net6.0\Example.FlexcelReports.genruntimeconfig.cache
+C:\Users\khernandezm\Downloads\Example.FlexcelReports\obj\Debug\net6.0\ref\Example.FlexcelReports.dll
